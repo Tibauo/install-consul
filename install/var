@@ -1,0 +1,5 @@
+user=user
+path_home_user=/home/$user
+consulversion=1.4.0
+consulzip=consul_${consulversion}_linux_amd64.zip
+consullink=https://releases.hashicorp.com/consul/$consulversion/$consulzip
